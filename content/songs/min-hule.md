@@ -11,7 +11,7 @@ Og min allerbedste bamse<br />
 Har også fået ???<br />
 ????<br />
 Min strømpe som har klædt sig ud<br />
-Som en gammmel mand<br />
+Som en gammel mand<br />
 
 Jeg er altså en troldmand<br />
 
