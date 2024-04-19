@@ -6,8 +6,15 @@
     <description>Recent content on Lille Billes Uofficiele Sangbog</description>
     <generator>Hugo 0.125.1</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 19 Apr 2024 20:44:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 21:07:12 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Om Siden</title>
+      <link>http://localhost:1313/om/</link>
+      <pubDate>Fri, 19 Apr 2024 21:07:12 +0200</pubDate>
+      <guid>http://localhost:1313/om/</guid>
+      <description>Jeg har lavet denne side i min fritid, hvor jeg prøver så godt jeg kan at skrive teksterne til Lille Billes sange. Min kæreste og jeg har ikke dansk som modersmål, og vores lille dreng elsker Lille Bille, og nogle gang er det lidt svært for os at følge med.&#xA;Der findes desværre ikke (endnu) en officiel sangbog. Jeg tilføjer derfor løbende tekster her.&#xA;Der vil nogle gange være fejl, og nogle gang skriver jeg bare &amp;quot;?</description>
+    </item>
     <item>
       <title>Påskeharen</title>
       <link>http://localhost:1313/songs/paaskeharen/</link>
