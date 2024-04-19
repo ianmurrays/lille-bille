@@ -9,7 +9,7 @@ Jeg tager mig en fotografi <br />
 Det ligner et ørn op på himlen <br />
 Når flyveren den svæver forbi <br />
 
-Mennesker fedter som aber <br />
+Mennesker fester som aber <br />
 Når gaderne spiller musik <br />
 Bussen den snører sig som slangen <br />
 Igennem den travle trafik <br />
