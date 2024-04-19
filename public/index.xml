@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lille Billes Uofficiele Sangbog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lille Billes Uofficiele Sangbog</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Fri, 19 Apr 2024 20:11:51 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Godnatsangen</title>
+      <link>http://localhost:1313/songs/godnat/</link>
+      <pubDate>Fri, 19 Apr 2024 20:11:51 +0200</pubDate>
+      <guid>http://localhost:1313/songs/godnat/</guid>
+      <description>Du har haft en dejlig dag&#xA;Med latter, leg og larm&#xA;Men nu er det tid at slappe af&#xA;Du burde sove mit barn&#xA;Læg dit hoved på din pude&#xA;Træk dynen op til din kind&#xA;Så fortæller jeg om det derude&#xA;Du ikke vidste inden&#xA;Vi har taget nok en tur&#xA;Om solen i fuldt fart&#xA;Mon ikke den også ta&amp;rsquo;r en lur&#xA;Nu skal du sove snart&#xA;Så læg dit hoved på din pude</description>
+    </item>
+  </channel>
+</rss>

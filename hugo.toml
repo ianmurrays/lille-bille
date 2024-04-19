@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'da-dk'
+title = 'Lille Billes Uofficiele Sangbog'
+theme = 'paper'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
